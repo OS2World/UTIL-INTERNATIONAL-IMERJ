@@ -1,0 +1,13 @@
+VX-REXX OS/2 V2.14 Build B3
+VRX: imerj.VRX
+MacroPath: VRM:E:\Development\VXREXX\Projects\rime
+EXEPath: 
+RunParameters: 
+RunDirectory: 
+VRXWindow: __VREMainWindow,1,687,2072,6047,9359
+VRXWindow: __VRESectionListWindow,1,1554,11708,3240,3939
+VRXWindow: __VREToolsWindow,1,1710,9588,4968,1665
+VRXWindow: __VREWindListWindow,1,1819,5155,2650,3150
+UserFile: 1
+UserWindow: WN_MAIN,1
+UserWindow: SW_ABOUT,1

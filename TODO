@@ -1,0 +1,9 @@
+Implement 'Options' menu with:
+    On-exit confirmation
+    Beep on Unicode copy/paste 
+Implement 'Edit' menu.
+    Convert to halfwidth/fullwidth
+Make pasting over a selection clear the selection.
+Add a built-in mini-charmap for special punctuation characters, etc.
+Strip linebreaks from the text rather than truncating.
+Implement overstrike mode.
